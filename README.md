@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/38eae16b57a0c2d039423.jpg"width="350"" alt="MightyXSpam Logo">
+  <img src="https://telegra.ph/file/38eae16b57a0c2d039423.jpg"width="350"" alt="ninjaopspam Logo">
 </p>
 <h1 align="center">
-  <b>⚠️ 𝘔𝘪𝘨𝘩𝘵𝘺 𝘟 𝘉𝘰𝘵 𝘚𝘱𝘢𝘮 ⚠️</b>
+  <b>⚠️ Ninja op spam bot ⚠️</b>
 </h1>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBeingMighty%2FMightyXBotSpam&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://github.com/BeingMighty/MightyXBotSpam)
@@ -22,16 +22,16 @@
 
 
 # Support & Updates
-* [⚡ Updates Channel ⚡](https://t.me/MightyXUpdates)
+* [⚡ Updates Channel ⚡](https://t.me/ninjaopspamupdates)
 
-* [✨ Support Group ✨](https://t.me/MightyXSupport)
+* [✨ Support Group ✨](https://t.me/ninjaopspamsupport)
 <br>
 
 <details>
  
   <summary> • 𝗖𝗿𝗲𝗱𝗶𝘁𝘀 • </summary>
   
-* [RiZoeL Creator](https://github.com/MrRizoel) For Base.
+* [RiZoeL Creator](https://github.com/Yourdad-king-op/ninjaopspam/edit/Mighty/README.md) For Base.
 * [MightyX Creator](https://github.com/BeingMighty)
 * [Lonami](https://github.com/LonamiWebs/) For [Telethon.](https://github.com/LonamiWebs/Telethon)
 
